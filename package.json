@@ -2,7 +2,7 @@
   "name": "swiggy",
   "version": "1.0.0",
   "description": "Swiggy using React",
-  "main": "swiggy.html",
+  "main": "swiggy.js",
   "scripts": {
     "test": "jest",
     "watch-test":"jest --watch",
